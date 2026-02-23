@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Joseph
 
 💻 Full-Stack Developer  
 🚀 Passionate about building scalable web applications  
@@ -35,6 +35,12 @@
 
 ---
 
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+
+---
+
 ## 🚀 What I Do
 
 - Build responsive and interactive web applications  
@@ -60,9 +66,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
-- Email: your-email@example.com
+- Email: josefstack.dev@gmail.com
 
 ---
 
