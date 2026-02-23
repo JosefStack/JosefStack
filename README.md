@@ -1,73 +1,54 @@
 # 👋 Hi, I'm Joseph
 
-💻 Full-Stack Developer  
-🚀 Passionate about building scalable web applications  
-📚 Constantly learning and improving  
+<p align="center">
+  💻 Full-Stack Developer • 🚀 Problem Solver • 📚 Lifelong Learner
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
+<p align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=js,java,python,cpp" />
+
+<br/>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+<br/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/>
+
+<!-- Databases & Services -->
+<img src="https://skillicons.dev/icons?i=postgres,supabase" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+</p>
 
 ---
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+## 📊 GitHub Stats
 
----
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
----
-
-### 🗄️ Database & Backend Services
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase)
-
----
-
-### 🔧 Tools & Version Control
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-
----
-
-## 🚀 What I Do
-
-- Build responsive and interactive web applications  
-- Develop REST APIs and backend systems  
-- Design and manage relational databases  
-- Write clean, scalable, and maintainable code  
-
----
-
-## 📈 Currently Learning
-
-- Advanced backend architecture  
-- System design fundamentals  
-- Performance optimization  
-
----
-
-## 📊 GitHub Stats (Optional)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-
-- Email: josefstack.dev@gmail.com
+ 
+- Email: josefstack.dev@gmail.com 
 
 ---
 
-⭐️ Feel free to explore my repositories and connect!
+⭐️ Thanks for visiting my profile!
