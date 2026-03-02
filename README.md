@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer  
 🚀 Problem Solver  
-📚 Lifelong Learner  
+📚 Lifelong Learner 
 
 ---
 
@@ -12,16 +12,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
----
-
-## 📫 Connect With Me
+## 📫 Let's connect
 
 - Email: josefstack.dev@gmail.com
 
 ---
 
-⭐️ Thanks for visiting my profile!
+⭐️ Thanks for visiting!
