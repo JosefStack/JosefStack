@@ -8,15 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,java,python,cpp" />
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase" />
-
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=js,java,python,cpp" /><img src="https://skillicons.dev/icons?i=html,css,react" /><img src="https://skillicons.dev/icons?i=nodejs,express" /><img src="https://skillicons.dev/icons?i=postgres,supabase" /><img src="https://skillicons.dev/icons?i=git,github" />
 
 ---
 
