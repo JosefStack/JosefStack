@@ -1,12 +1,4 @@
-# 👋 Hi, I'm **Joseph** 
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Code+Explorer;Tea+Enthusiast" alt="Typing SVG" />
-</div>
-
----
-
-# 👋 Hi, I'm **Joseph**
+👋 Hi, I'm **Joseph**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
@@ -46,27 +38,12 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosefStack&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosefStack&layout=compact&theme=graywhite&hide_border=true" />
-</div>
-
----
-
 ## 📫 **Connect**
 
 <div align="center">
   
 <a href="mailto:josefstack.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 </div>
