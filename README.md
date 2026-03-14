@@ -1,4 +1,4 @@
-👋 Hi, I'm **Joseph**
+#👋 Hi, I'm **Joseph**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
