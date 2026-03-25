@@ -12,7 +12,7 @@
 
 | Project | Tech Stack | Links |
 |---------|------------|-------|
-| **Nod** – Real-time chat app | `React` `TypeScript` `Socket.io` `MongoDB` | [🌐 Demo](https://nod-chat.onrender.com) · [📁 Code](https://github.com/JosefStack/nod) |
+| **Nod** – Real-time chat app | `React` `TypeScript` `Socket.io` `MongoDB` | [🌐 Demo](https://nod-chat.onrender.com) · [📁 Code](https://github.com/JosefStack/nod-chat) |
 | **Studify** – Student productivity | `React` `TypeScript` `Node.js` `PostgreSQL` | [🌐 Demo](https://studify-josefstack.vercel.app) · [📁 Code](https://github.com/JosefStack/studify) |
 | **Portfolio** | `React` `Node.js` `Express` | [🌐 Demo](https://portfolio-josefstack.vercel.app) · [📁 Code](https://github.com/JosefStack/portfolio) |
 
