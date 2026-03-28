@@ -22,7 +22,7 @@
 
 | | |
 |---|---|
-| 🔭 **Working on** | Real-time chat with Socket.io & TypeScript |
+| 🔭 **Working on** | Nod v2 - Real-time chat with Socket.io & TypeScript |
 | 🌱 **Learning** | TypeScript • Next.js |
 | 🤝 **Looking for** | Full-stack or data engineering collabs |
 | ⚡ **Fun fact** | I was a teacher before I was a developer |
