@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,python,java,postgres,mongodb,tailwind,git,github,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,python,java,postgres,mongodb,prisma,docker,tailwind,git,github,vercel" />
 </div>
 
 ---
@@ -12,8 +12,9 @@
 
 | Project | Tech Stack | Links |
 |---------|------------|-------|
-| **Nod** – Real-time chat app | `React` `TypeScript` `Socket.io` `MongoDB` | [🌐 Demo](https://nod-chat.onrender.com) · [📁 Code](https://github.com/JosefStack/nod-chat) |
-| **Studify** – Student productivity | `React` `TypeScript` `Node.js` `PostgreSQL` | [🌐 Demo](https://studify-josefstack.vercel.app) · [📁 Code](https://github.com/JosefStack/studify) |
+| **Nod v2** – Real-time chat & video calls | `React` `TypeScript` `PostgreSQL` `WebRTC` `Socket.io` | [🌐 Demo](https://nod-seven.vercel.app) · [📁 Code](https://github.com/JosefStack/nod-v2) |
+| **Nod v1** – Real-time chat app | `React` `TypeScript` `Socket.io` `MongoDB` | [🌐 Demo](https://nod-chat.onrender.com) · [📁 Code](https://github.com/JosefStack/nod-chat) |
+| **Studify** – Student productivity platform | `React` `TypeScript` `Node.js` `PostgreSQL` `Arcjet` | [🌐 Demo](https://studify-josefstack.vercel.app) · [📁 Code](https://github.com/JosefStack/studify) |
 | **Portfolio** | `React` `Node.js` `Express` | [🌐 Demo](https://portfolio-josefstack.vercel.app) · [📁 Code](https://github.com/JosefStack/portfolio) |
 
 ---
@@ -22,9 +23,9 @@
 
 | | |
 |---|---|
-| 🔭 **Working on** | Nod v2 - Real-time chat with Socket.io & TypeScript |
-| 🌱 **Learning** | TypeScript • Next.js |
-| 🤝 **Looking for** | Full-stack or data engineering collabs |
+| 🔭 **Working on** | Trading signal automation — Telegram → MetaTrader 5 via Python |
+| 🌱 **Learning** | AI engineering • Data engineering • Python |
+| 🤝 **Looking for** | Data engineering or AI engineering opportunities |
 | ⚡ **Fun fact** | I was a teacher before I was a developer |
 
 ---
