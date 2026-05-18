@@ -23,7 +23,7 @@
 
 | | |
 |---|---|
-| 🔭 **Working on** | Trading signal automation — Telegram → MetaTrader 5 via Python |
+| 🔭 **Working on** | Codie - CLI Coding Agent|
 | 🌱 **Learning** | AI engineering • Data engineering • Python |
 | 🤝 **Looking for** | Data engineering or AI engineering opportunities |
 | ⚡ **Fun fact** | I was a teacher before I was a developer |
