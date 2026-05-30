@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Joseph+Johnson;Full-Stack+Developer;CS+Student+%40+RTU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Joseph+Johnson;Backend+%26+AI+Engineer;CS+Student+%40+RTU" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,python,java,postgres,mongodb,prisma,docker,tailwind,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,react,ts,postgres,mongodb,prisma,docker,tailwind,git,github,vercel" />
 </div>
 
 ---
@@ -12,8 +12,8 @@
 
 | Project | Tech Stack | Links |
 |---------|------------|-------|
-| **Nod v2** – Real-time chat & video calls | `React` `TypeScript` `PostgreSQL` `WebRTC` `Socket.io` | [🌐 Demo](https://nod-seven.vercel.app) · [📁 Code](https://github.com/JosefStack/nod-v2) |
-| **Nod v1** – Real-time chat app | `React` `Javascript` `Socket.io` `MongoDB` | [🌐 Demo](https://nod-chat.onrender.com) · [📁 Code](https://github.com/JosefStack/nod-chat) |
+| **Codie** – CLI Coding Agent | `Python` `Groq` `ripgrep` `Tavily` | [📁 Code](https://github.com/JosefStack/codie) |
+| **Nod v2** – Real-time chat, video & AI assistant | `React` `TypeScript` `PostgreSQL` `WebRTC` `Socket.io` `FastAPI` `pgvector` `Groq` | [🌐 Demo](https://nod-seven.vercel.app) · [📁 Code](https://github.com/JosefStack/nod-v2) |
 | **Studify** – Student productivity platform | `React` `TypeScript` `Node.js` `PostgreSQL` `Arcjet` | [🌐 Demo](https://studify-josefstack.vercel.app) · [📁 Code](https://github.com/JosefStack/studify) |
 | **Portfolio** | `React` `Node.js` `Express` | [🌐 Demo](https://portfolio-josefstack.vercel.app) · [📁 Code](https://github.com/JosefStack/portfolio) |
 
@@ -23,9 +23,9 @@
 
 | | |
 |---|---|
-| 🔭 **Working on** | Codie - CLI Coding Agent|
-| 🌱 **Learning** | AI engineering • Data engineering • Python |
-| 🤝 **Looking for** | Data engineering or AI engineering opportunities |
+| 🔭 **Working on** | Codie — CLI coding agent |
+| 🌱 **Learning** | Data engineering • System design at scale |
+| 🤝 **Looking for** | Backend or AI engineering opportunities |
 | ⚡ **Fun fact** | I was a teacher before I was a developer |
 
 ---
