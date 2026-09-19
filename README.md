@@ -18,7 +18,6 @@ Currently diving deep into **AWS**, **NGINX**, and **Infrastructure as Code**.
 
 - 🔭 **Working on:** [Codie CLI](https://pypi.org/project/codie-cli/) — An AI-powered coding agent for your terminal  
 - 🌱 **Learning:** AWS · Terraform · CI/CD  
-- 🤝 **Open to:** Backend or AI engineering roles  
 - ⚡ **Fun fact:** I used to teach English. Now I teach machines.
 
 ---
