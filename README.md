@@ -13,7 +13,7 @@
 
 > CS Student @ Riga Technical University · Building AI agents & backend systems
 
-I build things that work, from CLI coding agents to real-time apps with AI assistants.  
+I build things that work, from CLI coding agents to real-time apps and AI assistants.  
 Recently moved Nod to production on **AWS** (VPC, ECS Fargate, ALB, CloudFront, RDS). Now learning **Rust** for systems-level work.
 
 - 🔭 **Working on:** [Nod](https://github.com/JosefStack/nod-v2), real-time chat, video and AI, now running on AWS
