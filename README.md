@@ -13,11 +13,11 @@
 
 > CS Student @ Riga Technical University · Building AI agents & backend systems
 
-I build things that work — from CLI coding agents to real-time apps with AI assistants.  
-Currently diving deep into **AWS**, **NGINX**, and **Infrastructure as Code**.
+I build things that work, from CLI coding agents to real-time apps with AI assistants.  
+Recently moved Nod to production on **AWS** (VPC, ECS Fargate, ALB, CloudFront, RDS). Now learning **Rust** for systems-level work.
 
-- 🔭 **Working on:** [Codie CLI](https://pypi.org/project/codie-cli/) — An AI-powered coding agent for your terminal  
-- 🌱 **Learning:** AWS · Terraform · CI/CD  
+- 🔭 **Working on:** [Nod](https://github.com/JosefStack/nod-v2), real-time chat, video and AI, now running on AWS
+- 🌱 **Learning:** Rust
 - ⚡ **Fun fact:** I used to teach English. Now I teach machines.
 
 ---
@@ -25,7 +25,7 @@ Currently diving deep into **AWS**, **NGINX**, and **Infrastructure as Code**.
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,react,ts,postgres,mongodb,docker,redis,nginx,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,rust,fastapi,nodejs,react,postgres,mongodb,redis,docker,aws,nginx,git,github&theme=dark" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ Currently diving deep into **AWS**, **NGINX**, and **Infrastructure as Code**.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[Codie CLI](https://pypi.org/project/codie-cli/)** | AI coding agent that reads, writes, and debugs your code. Live on PyPI. | `Python` `Groq` `OpenAI` `ripgrep` |
-| **[Nod](https://github.com/JosefStack/nod-v2)** | Real-time chat + video calls + AI assistant with RAG over conversation history. | `React` `FastAPI` `PostgreSQL` `WebRTC` |
+| **[Nod](https://github.com/JosefStack/nod-v2)** | Real-time chat + video calls + AI assistant with RAG over conversation history. Deployed on AWS (ECS Fargate, ALB, CloudFront, RDS). | `React` `Node.js` `FastAPI` `PostgreSQL` `WebRTC` `AWS` |
 | **[Studify](https://github.com/JosefStack/studify)** | Student productivity platform with session tracking & analytics. | `React` `Node.js` `PostgreSQL` |
 | **[Portfolio](https://github.com/JosefStack/portfolio)** | Personal portfolio & project showcase. | `React` `Node.js` `Express` |
 
